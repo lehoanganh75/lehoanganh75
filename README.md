@@ -1,10 +1,11 @@
 # 👋 Hi, I'm **Hoang Anh**!  
-🎓 Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**.  
-🚀 Passionate about **web development**, **software testing**, and **clean code**.  
-🌱 Currently learning **Spring Boot**, **ReactJS**, and **DevOps tools** like Docker & Kubernetes.  
-🧠 Interested in **data-driven testing**, **automation**, and **microservices architecture**.  
-📚 Sharing my **coding journey and projects** here on GitHub.  
-⚡ Fun fact: I love debugging more than coding sometimes 😄  
+
+🎓 Student of **Software Engineering** at **Industrial University of Ho Chi Minh City (IUH)**.
+🚀 Passionate about **web development** and **game development**.
+🌱 Currently learning **ReactJS**, **React Native**, **Java** and **JavaScript**.
+🧠 Interested in **AI**, **web application programming** and **mobile**.
+📚 Share your **programming journey** and **personal projects** here on **GitHub**.
+⚡ Fun fact: Sometimes I prefer **gaming** to **programming** 😄
 
 
 ## 🌐 Socials:
