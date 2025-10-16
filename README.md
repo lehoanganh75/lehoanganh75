@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi, I'm Hoang Anh!<br><br>💻 Software Engineering student at Industrial University of Ho Chi Minh City (IUH).<br>🚀 Passionate about web development, software testing, and clean code.<br>🌱 Currently learning Spring Boot, ReactJS, and DevOps tools like Docker & Kubernetes.<br>🧠 Interested in data-driven testing, automation, and microservices architecture.<br>📚 Sharing my coding journey and projects here on GitHub.<br>⚡ Fun fact: I love debugging more than coding sometimes 😄
+# 👋 Hi, I'm **Hoang Anh**!  
+🎓 Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**.  
+🚀 Passionate about **web development**, **software testing**, and **clean code**.  
+🌱 Currently learning **Spring Boot**, **ReactJS**, and **DevOps tools** like Docker & Kubernetes.  
+🧠 Interested in **data-driven testing**, **automation**, and **microservices architecture**.  
+📚 Sharing my **coding journey and projects** here on GitHub.  
+⚡ Fun fact: I love debugging more than coding sometimes 😄  
 
 
 ## 🌐 Socials:
@@ -12,13 +17,5 @@ Hi, I'm Hoang Anh!<br><br>💻 Software Engineering student at Industrial Univer
 ![](https://nirzak-streak-stats.vercel.app/?user=lehoanganh75&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoanganh75&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lehoanganh75&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=lehoanganh75&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
