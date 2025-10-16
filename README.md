@@ -1,11 +1,12 @@
 # 👋 Hi, I'm **Hoang Anh**!  
 
-🎓 Student of **Software Engineering** at **Industrial University of Ho Chi Minh City (IUH)**.
-🚀 Passionate about **web development** and **game development**.
-🌱 Currently learning **ReactJS**, **React Native**, **Java** and **JavaScript**.
-🧠 Interested in **AI**, **web application programming** and **mobile**.
-📚 Share your **programming journey** and **personal projects** here on **GitHub**.
-⚡ Fun fact: Sometimes I prefer **gaming** to **programming** 😄
+🎓 A **Software Engineering student** at **Industrial University of Ho Chi Minh City (IUH)**.  
+🚀 Passionate about **web development** and **game development**.  
+🌱 Currently learning **ReactJS**, **React Native**, **Java**, and **JavaScript**.  
+🧠 Interested in **AI**, **web**, and **mobile application development**.  
+📚 Sharing my **coding journey** and **personal projects** here on **GitHub**.  
+⚡ Fun fact: Sometimes I enjoy **gaming** more than **coding** 😄  
+
 
 
 ## 🌐 Socials:
