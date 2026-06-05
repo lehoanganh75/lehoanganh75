@@ -1,9 +1,13 @@
 # 👋 Hi, I'm **Le Hoang Anh**
 
 🎓 A **4th-year Software Engineering student** at **Industrial University of Ho Chi Minh City (IUH)**.
+
 💻 Oriented toward **Backend Development** and **Full-stack Web Development**.
+
 🚀 Interested in building real-world software products using **Spring Boot**, **Node.js**, **ReactJS**, **RESTful APIs**, and **Docker**.
+
 🧠 Passionate about **system architecture**, **API design**, **microservices**, **AI integration**, and **cloud deployment**.
+
 📚 I’m continuously improving my skills through academic projects, personal projects, and internship opportunities.
 
 ---
