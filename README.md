@@ -70,8 +70,11 @@
 A web-based event management system that supports event creation, participant management, QR attendance, realtime chat, notifications, statistics, and AI-powered event planning.
 
 **Role:** Leader / Backend Developer
+
 **Tech stack:** Spring Boot, ReactJS, MariaDB, MongoDB, Redis, Docker, JWT, Gemini, Ollama
+
 **Demo:** https://fitiuh-events.io.vn
+
 **Repository:** https://github.com/lehoanganh75/Event-Management-Portal
 
 ---
@@ -81,7 +84,9 @@ A web-based event management system that supports event creation, participant ma
 A messaging application with authentication, realtime chat, livestream interaction, and user communication.
 
 **Role:** Member / Fullstack Developer
+
 **Tech stack:** Node.js, TypeScript, React Native, ReactJS, MongoDB, Socket.IO, JWT, Expo, LiveKit, WebRTC
+
 **Demo:** https://host-frontend-mu.vercel.app/
 
 ---
@@ -91,6 +96,7 @@ A messaging application with authentication, realtime chat, livestream interacti
 A workspace and task management application that helps teams create workspaces, boards, tasks, and track work progress.
 
 **Role:** Member / Developer
+
 **Tech stack:** ReactJS, Next.js, Spring Boot, RESTful API, JWT, MongoDB, MariaDB, Zustand, Redis, Socket.IO
 
 ---
